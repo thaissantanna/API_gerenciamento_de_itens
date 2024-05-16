@@ -17,7 +17,7 @@ Clone o repositório para o seu ambiente local:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/fastapi-tdd-project.git
+git clone https://github.com/thaissantanna/fastapi-tdd-project.git
 Navegue até o diretório do projeto:
 
 bash
@@ -67,4 +67,4 @@ Contribuindo
 Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é muito bem-vinda!
 
 Licença
-Este projeto é distribuído sob a licença MIT.
+thaissantanna
